@@ -10,9 +10,9 @@ Projeto demonstrativo desenvolvido para a disciplina de **Computação Gráfica*
 
 | Nome | RA |
 |------|-----|
-| Nome do Integrante 1 | 000000 |
-| Nome do Integrante 2 | 000000 |
-| Nome do Integrante 3 | 000000 |
+| Guilherme Winck Ferrari | 1134330 |
+| Guilherme Menezes  | 1134714 |
+| Cristiano Salles | 1133511 |
 
 ---
 
