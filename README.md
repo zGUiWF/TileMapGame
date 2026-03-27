@@ -2,7 +2,7 @@
 
 **Colete 5 moedas num mapa tile-based 2D desviando de árvores, água e paredes.**
 
-Projeto demonstrativo desenvolvido para a disciplina de **Computação Gráfica**, com o objetivo de apresentar o funcionamento do sistema de **Tilemaps da Unity** — um dos recursos mais importantes para criação de cenários em jogos 2D.
+Projeto demonstrativo desenvolvido para a disciplina de **Tecnologias Emergentes**, com o objetivo de apresentar o funcionamento do sistema de **Tilemaps da Unity** — um dos recursos mais importantes para criação de cenários em jogos 2D.
 
 ---
 
